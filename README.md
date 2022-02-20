@@ -4,22 +4,35 @@
 
 ## Learning About Web Development
 
-## Career in Software Engineering and Internships
+Learn about frontend and backend web development with the latest technology: https://fullstackopen.com/en/
+
+## Software Engineering
+
+### UofT computer science courses
 
 https://courseography.cdf.toronto.edu/graph
 
-https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions
+### Interview:
+System design: https://github.com/donnemartin/system-design-primer  
+MUST DO questions: https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions  
+Common patterns: https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions  
+Interview question practice: https://leetcode.com/
 
-https://github.com/donnemartin/system-design-primer
+### Internships
+Subreddit for computer science students: https://www.reddit.com/r/csMajors/  
+Discord and internship info for computer science students: https://www.cscareers.dev/  
 
-https://leetcode.com/
 
-https://fullstackopen.com/en/
 
-https://www.reddit.com/r/cscareerquestions/
 
-https://www.reddit.com/r/csMajors/
 
-https://www.cscareers.dev/
 
-https://www.reddit.com/r/cscareerquestions/wiki/index
+
+
+
+
+
+
+
+
+
